@@ -1,0 +1,5 @@
+{
+  "name": "Generate Report",
+  "description": "automatically generate report",
+  "requestFramePermissions": []
+}
